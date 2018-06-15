@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text">
+        <item>Visai ne prieš 100 metų</item>
+        <item>ir ne prieš 10</item>
+        <item>žmonija įsisuko į technologijų pasaulį.</item>
+        <item>Atsiradus technologijom, visi pamiršo tikrąjį pasaulį</item>
+        <item>ir jo tikrąją aplinką.</item>
+        <item>Dėl apleistos aplinkos ir žmonių didelio užimtumo</item>
+        <item>į miestą įsiveržė virusas - DRAKONAS</item>
+        <item>kuris pasiruošęs visiškai suniokoti miestą</item>
+        <item>ir kas jame yra.</item>
+        <item>Kadangi miesto gyventojai nieko nemato kas aplinkui juos dedasi</item>
+        <item>liko vienintelė išeitis</item>
+        <item>kovoti TAU prieš didyjį virusą</item>
+        <item>ir jį nugalėti.</item>
+        <item>Tavo ginklas yra lošimo kauliukai</item>
+        <item>kuriuos ridendamas tu gali virusą pribaigti</item>
+        <item>arba kitaip pats mirsi...</item>
+        <item></item>
+        <item>Telydi tave sėkmė!</item>
+    </string-array>
+</resources>

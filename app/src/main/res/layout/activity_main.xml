@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.litas.virus3000.MainActivity"
+    android:background="@drawable/village"
+    android:keepScreenOn="true"
+    >
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="146dp"
+        android:background="@drawable/zaisti"
+        android:onClick="startGame" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:onClick="history"
+        android:src="@drawable/istorija"
+        android:text="@string/button_istorija" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="260dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/pavadinimas" />
+
+    <ImageButton
+        android:id="@+id/imageButton10"
+        android:layout_width="200dp"
+        android:layout_height="54dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="85dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/i"
+        android:onClick="quit"/>
+
+</RelativeLayout>
+
